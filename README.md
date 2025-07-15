@@ -62,12 +62,13 @@ Input is read from an Excel file: `juice_data.xlsx`
 
 ---
 
-Company: CodTech IT Solutions  
-Name: Jayant Sirurmath  
-Intern ID: CT08DL564  
-Domain: Data Science  
-Duration: 8 Weeks  
-Mentor: Neela Santosh 
+-  Company: CodTech IT Solutions  
+-  Name: Jayant Sirurmath  
+-  Intern ID: CT08DL564  
+-  Domain: Data Science  
+-  Duration: 8 Weeks  
+-  Mentor: Neela Santosh 
+
 ---
 ## ✅ Sample Output
 
